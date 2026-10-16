@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/"/>
+    </url>
+    <url>
+        <loc>Noneabout/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneabout/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/about/"/>
+    </url>
+    <url>
+        <loc>Nonedata-analysis/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-analysis/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/data-analysis/"/>
+    </url>
+    <url>
+        <loc>Nonedata-analysis/projekt_1_analiza_zdarzen_pogodowych/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-analysis/projekt_1_analiza_zdarzen_pogodowych/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/data-analysis/projekt_1_analiza_zdarzen_pogodowych/"/>
+    </url>
+    <url>
+        <loc>Nonemachine-learning/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemachine-learning/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/machine-learning/"/>
+    </url>
+    <url>
+        <loc>Nonemachine-learning/projekt_2_analiza_ubezpieczenia/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemachine-learning/projekt_2_analiza_ubezpieczenia/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/machine-learning/projekt_2_analiza_ubezpieczenia/"/>
+    </url>
+    <url>
+        <loc>Nonenlp/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenlp/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/nlp/"/>
+    </url>
+    <url>
+        <loc>Nonenlp/projekt_3_wyszukiwarka_ubezpieczenia/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenlp/projekt_3_wyszukiwarka_ubezpieczenia/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/nlp/projekt_3_wyszukiwarka_ubezpieczenia/"/>
+    </url>
+    <url>
+        <loc>Nonenlp/projekt_3_wyszukiwarka_ubezpieczenia/zakres_i_zrodla/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenlp/projekt_3_wyszukiwarka_ubezpieczenia/zakres_i_zrodla/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/nlp/projekt_3_wyszukiwarka_ubezpieczenia/zakres_i_zrodla/"/>
+    </url>
+    <url>
+        <loc>Nonesoftware-engineering/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesoftware-engineering/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/software-engineering/"/>
+    </url>
+    <url>
+        <loc>Nonepl/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonepl/about/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneabout/"/>
+    </url>
+    <url>
+        <loc>Nonepl/data-analysis/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/data-analysis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-analysis/"/>
+    </url>
+    <url>
+        <loc>Nonepl/data-analysis/projekt_1_analiza_zdarzen_pogodowych/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/data-analysis/projekt_1_analiza_zdarzen_pogodowych/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedata-analysis/projekt_1_analiza_zdarzen_pogodowych/"/>
+    </url>
+    <url>
+        <loc>Nonepl/machine-learning/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/machine-learning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemachine-learning/"/>
+    </url>
+    <url>
+        <loc>Nonepl/machine-learning/projekt_2_analiza_ubezpieczenia/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/machine-learning/projekt_2_analiza_ubezpieczenia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemachine-learning/projekt_2_analiza_ubezpieczenia/"/>
+    </url>
+    <url>
+        <loc>Nonepl/nlp/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/nlp/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenlp/"/>
+    </url>
+    <url>
+        <loc>Nonepl/nlp/projekt_3_wyszukiwarka_ubezpieczenia/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/nlp/projekt_3_wyszukiwarka_ubezpieczenia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenlp/projekt_3_wyszukiwarka_ubezpieczenia/"/>
+    </url>
+    <url>
+        <loc>Nonepl/nlp/projekt_3_wyszukiwarka_ubezpieczenia/zakres_i_zrodla/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/nlp/projekt_3_wyszukiwarka_ubezpieczenia/zakres_i_zrodla/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenlp/projekt_3_wyszukiwarka_ubezpieczenia/zakres_i_zrodla/"/>
+    </url>
+    <url>
+        <loc>Nonepl/software-engineering/</loc>
+        <lastmod>2026-10-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pl" href="Nonepl/software-engineering/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesoftware-engineering/"/>
+    </url>
+</urlset>
