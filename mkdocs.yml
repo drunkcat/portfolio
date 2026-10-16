@@ -1,0 +1,70 @@
+site_name: Portfolio Grzegorza Markowskiego
+site_author: Grzegorz Markowski
+site_description: Portfolio projektów z obszaru Data Science, Machine Learning, AI i inżynierii oprogramowania.
+
+repo_name: drunkcat/portfolio
+repo_url: https://github.com/drunkcat/portfolio
+
+theme:
+  name: material
+  logo: assets/portfolio.png
+  palette:
+    primary: light blue
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - content.code.copy
+  font:
+    text: Inter
+    code: Roboto Mono
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/language-switcher.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+nav:
+  - Data Analysis:
+      - Overview: data-analysis/index.md
+      - Weather Events Analysis: data-analysis/projekt_1_analiza_zdarzen_pogodowych/index.md
+  - Machine Learning:
+      - Overview: machine-learning/index.md
+      - Insurance Premium Analysis: machine-learning/projekt_2_analiza_ubezpieczenia/index.md
+  - NLP: nlp/index.md
+  # - Software Engineering: software-engineering/index.md
+  - About: about.md
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: pl
+          name: Polski
+          build: true
+          nav_translations:
+            Data Analysis: Data Analysis
+            Machine Learning: Machine Learning
+            NLP: NLP
+            # Software Engineering: Inżynieria oprogramowania
+            Overview: Przegląd
+            Weather Events Analysis: Przegląd zdarzeń pogodowych
+            Insurance Premium Analysis: Analiza składki ubezpieczeniowej
+            About: O mnie
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
