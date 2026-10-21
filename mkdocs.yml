@@ -1,6 +1,7 @@
-site_name: Portfolio Grzegorza Markowskiego
+site_name: Grzegorza Markowskiego - Portfolio
 site_author: Grzegorz Markowski
 site_description: Portfolio projektów z obszaru Data Science, Machine Learning, AI i inżynierii oprogramowania.
+site_url: https://drunkcat.github.io/portfolio/
 
 repo_name: drunkcat/portfolio
 repo_url: https://github.com/drunkcat/portfolio
